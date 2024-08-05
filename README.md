@@ -11,7 +11,7 @@
 
 - **[Sakhi](#)**: A to-do list focused on minimizing workflow disruption and maximizing task management(work in progress).
 
-### ✨Find Me✨
+### ✨Social✨
 
 - **Email**: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manjarirathore1512@gmail.com)
 - **Portfolio**: [![Portfolio](https://img.shields.io/badge/Portfolio-111?style=flat&logo=vercel&logoColor=white)](https://portfolio-manjari-rathores-projects.vercel.app/)

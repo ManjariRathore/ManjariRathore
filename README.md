@@ -14,7 +14,7 @@
 ### ✨Social✨
 
 - **Email**: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manjarirathore1512@gmail.com)
-- **Portfolio**: [![Portfolio](https://img.shields.io/badge/Portfolio-111?style=flat&logo=vercel&logoColor=white)](https://portfolio-manjari-rathores-projects.vercel.app/)
+- **Portfolio**: [![Portfolio](https://img.shields.io/badge/Portfolio-111?style=flat&logo=vercel&logoColor=white)](https://manjarirathore.vercel.app/)
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjari-rathore1512/)
 - **Leetcode**: [![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/manjarirathore1512/)
 
